@@ -1,9 +1,9 @@
 ---
-title: Template Chapter 1
-description: This is a template chapter.
+title: Calculate Mean
+description: In this exercise, you'll be calculating a mean.
 ---
 
-## Ex 1.1
+## Calculate the mean
 
 ```yaml
 type: NormalExercise
@@ -12,8 +12,6 @@ xp: 100
 skills: 1
 key: 8e2578c66d
 ```
-
-## Calculate the mean
 
 In this exercise, you'll be calculating a mean.
 
